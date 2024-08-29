@@ -1,0 +1,68 @@
+body{
+    margin: 0px;
+}
+.content{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logo{
+    width: 120px;
+}
+.c1{
+    text-align: center;
+    background-color: rgb(52, 49, 243);
+    color: white;
+}
+.c2{
+    padding-top: 0px;
+    width: 100%;
+}
+.r1{
+    background-color: rgb(125, 155, 255);
+    padding: 20px;
+    color: white;
+}
+.r2r1{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 20px;
+}
+.r2r1c1,.r2r1c2,.r2r1c3{
+    display: flex;
+}
+.r2r1c1{
+    width: 270px;
+    background-color: red;
+    padding: 15px;
+    color: white;
+}
+.r2r1c2{
+    width: 270px;
+    background-color: rgb(12, 107, 28);
+    padding: 15px;
+    color: white;
+}
+.r2r1c3{
+    width: 270px;
+    background-color: rgb(69, 0, 100);
+    padding: 15px;
+    color: white;
+}
+.r3{
+    text-align: center;
+    padding: 10px;
+}
+.r4,.r5{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    padding: 20px;
+}
+.r4c1,.r4c2,.r4c3,.r5c1,.r5c2,.r5c3{
+    width: 200px;
+    text-align: center;
+}
+.r6{
+    text-align: center;
+}
